@@ -1,0 +1,12 @@
+C:\Users\a.mirko\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\a.mirko\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\a.mirko\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.pdb
+C:\Users\a.mirko\source\repos\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a.mirko\source\repos\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a.mirko\source\repos\Client\Client\obj\Debug\Client.csproj.CopyComplete
